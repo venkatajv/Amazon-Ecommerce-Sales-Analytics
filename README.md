@@ -135,12 +135,12 @@ Features
 ```
 Amazon-Ecommerce-Sales-Analytics/
 │
+├── Amazon_Dashboard_Page1.png
+├── Amazon_Dashboard_Page2.png
 ├── Amazon_Ecommerce_EDA.ipynb
 ├── Amazon_Ecommerce_Dashboard.pbix
-├── requirements.txt
 ├── README.md
-├── Amazon_Dashboard_Page1.png
-└── Amazon_Dashboard_Page2.png
+└── requirements.txt
 ```
 
 ---
