@@ -21,6 +21,8 @@ This project analyzes Amazon E-Commerce sales data using Python for Exploratory 
 
 ## Dataset Information
 
+The original dataset contains 1 million rows and is omitted from this repository due to GitHub file size limits.
+
 - Total Records: 1,000,000
 - Total Columns: 20
 
