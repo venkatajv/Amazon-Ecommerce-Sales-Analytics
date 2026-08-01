@@ -130,7 +130,7 @@ Features
 
 ## Repository Structure
 
-
+```
 Amazon-Ecommerce-Sales-Analytics/
 │
 ├── Amazon_Ecommerce_EDA.ipynb
@@ -139,7 +139,7 @@ Amazon-Ecommerce-Sales-Analytics/
 ├── README.md
 ├── Amazon_Dashboard_Page1.png
 └── Amazon_Dashboard_Page2.png
-
+```
 
 ---
 
